@@ -1,3 +1,6 @@
+![Cloud Config Diagram](https://raw.githubusercontent.com/kawgh1/kwg-microservices-brewery/master/cloud-config-server-diagram1.png)
+
+
 ### Default Port Mappings - For Single Host (Cloud)
 | Project ||
 | --------| -----|
